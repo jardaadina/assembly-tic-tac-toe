@@ -1,10 +1,12 @@
-# X-si-0-assembly
+# Assembly Tic-Tac-Toe
 
-Aceasta este o implementare a jocului X și 0 scrisă în Assembly, rulabilă în DOS/Emu8086. Jocul permite doi jucători să joace pe rând, detectează automat câștigătorul sau dacă este remiză și afișează rezultatul.
+This project is a Tic-Tac-Toe game implementation written in **Assembly**. It is designed to run in a DOS environment or using the **Emu8086** emulator.
 
-Funcționalități
-Joc X și 0 pe un grid 3x3
-Input de la tastatură pentru plasarea mutărilor
-Verificare automată a câștigătorului sau a remizei
-Afișare a rezultatului final
+The game supports two players taking turns, automatically detects if someone has won or if it is a draw, and displays the final result.
 
+## Features
+* **3x3 Grid:** Standard Tic-Tac-Toe gameplay.
+* **Two-Player:** Supports turn-based local play.
+* **Keyboard Input:** Use the keyboard to select grid positions.
+* **Game Logic:** Automatically checks for a winner or a draw.
+* **Status Display:** Shows the final game result on the screen.
